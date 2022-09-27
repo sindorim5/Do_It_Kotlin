@@ -3,6 +3,7 @@ package chap10.section3
 import java.io.File
 import java.io.FileWriter
 import java.io.PrintWriter
+import java.lang.Exception
 
 fun main() {
     val outString: String = "안녕하세요!\tHello\r\nWorld!."  // CR LF
